@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=BB9AF7&width=435&lines=hello%2C+world" alt="hello, world svg" />
 </p>
 <div align="left">
+  
 # 🖐️ About Me:
 A developer in the UK with a deep obsession for everything Python. I've basically mastered the language, from the most basic string handling to hardcore stuff like OOP and functional programming. I've got every important library in my toolkit—Matplotlib, Numpy, Pandas, Request, regex, you name it. There’s no part of Python I haven't conquered.<br>Beyond Python, I've got a strong background in web development with HTML, CSS, and some JavaScript, plus I know SQL. My real passion, though, is on the AI side of things. I took Andrew Ng’s Machine Learning and Generative AI courses from Stanford and a prompt engineering course by OpenAI. I didn't just learn the theory; I built my own models from scratch to prove I understood the math, not just how to use a library. I'm currently focused on pushing my limits in Machine Learning and automating workflows with n8n. If it’s complex and involves code and maths, I'll love it. 
 
