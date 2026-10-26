@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./terminal.svg" width="100%" alt="Terminal running fastfetch: an animated 3D JB logo built from glowing terminal-style blocks, beside Josh Beira's details. Computer Science at Warwick; software engineering, ML, AI research and full-stack; open to 2027 internships &amp; placements.">
+  <img src="./terminal.svg" width="100%" alt="Terminal running fastfetch: an animated 3D JB logo built from glowing terminal-style blocks, beside Josh Beira's details. Computer Science at Warwick; Head of Software at Warwick Racing and ML researcher; software engineering, ML and full-stack.">
 </p>
 
 <pre>
 <b>josh@github:~$ cat about.txt</b>
-Software engineer into ML, AI research and full-stack development.
+Software engineer into ML and full-stack development.
 I like hard problems and building things properly, end to end.
 
 <b>josh@github:~$ ls ~/projects</b>
