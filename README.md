@@ -1,19 +1,35 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=BB9AF7&width=435&lines=hello%2C+world" alt="hello, world svg" />
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal running fastfetch: an animated 3D JB logo built from glowing terminal-style blocks, beside Josh Beira's details. Computer Science at the University of Warwick; Head of Software &amp; ML at Warwick Racing; open to 2027 internships &amp; placements.">
 </p>
-<div align="left">
-  
-# 🖐️ About Me:
-A developer in the UK with a deep obsession for everything Python. I've basically mastered the language, from the most basic string handling to hardcore stuff like OOP and functional programming. I've got every important library in my toolkit—Matplotlib, Numpy, Pandas, Request, regex, you name it. There’s no part of Python I haven't conquered.<br>Beyond Python, I've got a strong background in web development with HTML, CSS, and some JavaScript, plus I know SQL. My real passion, though, is on the AI side of things. I took Andrew Ng’s Machine Learning and Generative AI courses from Stanford and a prompt engineering course by OpenAI. I didn't just learn the theory; I built my own models from scratch to prove I understood the math, not just how to use a library. I'm currently focused on pushing my limits in Machine Learning and automating workflows with n8n. If it’s complex and involves code and maths, I'll love it. 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<pre>
+<b>josh@github:~$ cat about.txt</b>
+I build machine learning systems that have to survive a constraint —
+a 50 ms deadline on a moving car, a user who cannot see the screen,
+or a benchmark designed to catch me fooling myself.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/<MYDISCORD>) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/<MYINSTAGRAM>) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/<MYLINEDIN>) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/<MYREDDIT>) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/<MYSTACKOVERFLOW>) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@<MYTIKTOK>) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/<MYTWITER>) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:<MYEMAIL>) KAGLE HUGGING FACE
+<b>josh@github:~$ ls ~/projects</b>
+<a href="https://github.com/joshbeira/Agentic-Trading-Benchmark-PDT-Hackathon-">pdtbench</a>           agentic trading benchmark: skill vs. chart memory     <a href="https://pdtbench.onrender.com">[demo]</a>
+                   └─ 1st place, PDT Partners hackathon
+<a href="https://github.com/joshbeira/Penny">penny</a>              reads printed letters aloud: web, Android, iOS        <a href="https://joshbeira.github.io/Penny/">[live]</a>
+<a href="https://github.com/joshbeira/byte-the-evidence-sol2">byte-the-evidence</a>  M&amp;A negotiation trainer, 5-agent Google ADK backend
+<a href="https://github.com/joshbeira/cineindex">cineindex</a>          film analytics engine on hand-built hash/AVL indexes  <a href="https://cineindex.onrender.com">[live]</a>
+<a href="https://github.com/joshbeira/maze-runner">maze-runner</a>        6 navigation strategies compared over 18,000 runs
+<a href="https://github.com/joshbeira/matrixpong">matrixpong</a>         embedded C arcade engine: STM32 firmware + Wasm demo  <a href="https://joshbeira.github.io/matrixpong/">[live]</a>
+<a href="https://github.com/joshbeira/commonroom">commonroom</a>         shared-expense ledger: penny-exact, HMAC audit chain  <a href="https://commonroom-ledger.onrender.com">[live]</a>
+<a href="https://github.com/joshbeira/proofscope">proofscope</a>         natural-deduction proof checker with countermodels    <a href="https://proofscope.onrender.com">[live]</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=joshbeira&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<b>josh@github:~$ cat stack.yml</b>
+languages: [Python, TypeScript, Java, C, Haskell, SQL]
+ml:        [PyTorch, TensorFlow, OpenCV, ROS, NumPy, pandas]
+agents:    [MCP, Google ADK, Anthropic SDK, Gemini]
+web:       [React, Flask, FastAPI, Vite]
+infra:     [Linux, Docker, GitHub Actions]
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<b>josh@github:~$ cat contact.txt</b>
+web       <a href="https://joshbeira.com">joshbeira.com</a>
+linkedin  <a href="https://www.linkedin.com/in/josh-beira">linkedin.com/in/josh-beira</a>
+email     <a href="mailto:joshbeira@gmail.com">joshbeira@gmail.com</a>
+
+<b>josh@github:~$</b> █
+</pre>
